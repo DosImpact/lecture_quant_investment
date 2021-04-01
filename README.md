@@ -17,16 +17,16 @@ https://colab.research.google.com/drive/1AQq1KqRMUuy07PtwiQGbeJoY9QfP8g5N#scroll
 
 ### pandas - groupby
 
--[ ] 🚀
+https://drive.google.com/file/d/1O4xMhmN_QDnCEdS4yD2OQxmOQUQ7q_I1/view?usp=sharing
 
 ### pandas - Join
 
--[ ] 🚀
+https://drive.google.com/file/d/1cqIQ8wR7ejSRibgNqZZPJdBM8lnJ7OLP/view?usp=sharing
 
 ### Visualization
 
--[ ] 🚀
+https://drive.google.com/file/d/13HeQnUp-4RJSyp-xw44ExpBR5_DrVeX8/view?usp=sharing
 
 ### backtest
 
--[ ] 🚀
+https://drive.google.com/file/d/1voPruUSX7VVthDhfIer0xxAgv3F6tHnN/view?usp=sharing
